@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FeatureFlagSamples.Tests/FeatureFlagSamples.Tests.csproj" />
+  <Project Path="FeatureFlagSamples/FeatureFlagSamples.csproj" />
+</Solution>
